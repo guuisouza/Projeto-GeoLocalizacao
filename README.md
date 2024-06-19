@@ -2,7 +2,7 @@
 
 ## Sobre o repositório  
 Repositório das aulas da disciplina de Programação para Dispositivos Móveis I no curso de Desenvolvimento de Software Multiplataforma pela FATEC Franca.  
-Nas aulas foi ensinado diversas bibliotecas e como implementá-las em um dispositivo android, então o foco fica apenas na implementação em código e como faze-la.  
+Nas aulas foram ensinadas diversas bibliotecas e como implementá-las em um dispositivo android, então o foco fica apenas na implementação em código e como faze-la.  
 Contém arquivos que mostram como fazer um acesso a câmera nativa do Android, a como implementar uma biblioteca de gráficos e também um mapa de Geo Localização.  
 
 # Learn More
